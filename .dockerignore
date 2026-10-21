@@ -1,0 +1,7 @@
+.git
+.gitignore
+scratch/
+sport_nexus.sql
+populate_products.php
+seed_master.php
+*.md

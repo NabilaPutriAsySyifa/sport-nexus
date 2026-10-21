@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 90" fill="none">
+    <g transform="translate(10, 10)">
+        <!-- Sporty Red Running Silhouette Icon -->
+        <circle cx="28" cy="14" r="8" fill="#E5252A"/>
+        <path d="M14 38 L24 24 L34 26 L46 16 M24 24 L22 46 L38 48 L48 64 M22 46 L10 56" stroke="#E5252A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M12 28 L4 34 M28 32 L36 40" stroke="#E5252A" stroke-width="4.5" stroke-linecap="round"/>
+    </g>
+    <!-- Brand Typography: SPORT NEXUS -->
+    <text x="80" y="46" font-family="'Montserrat', 'Arial Black', sans-serif" font-weight="900" font-style="italic" font-size="34" fill="#1E2229" letter-spacing="-1">SPORT</text>
+    <text x="210" y="46" font-family="'Montserrat', 'Arial Black', sans-serif" font-weight="900" font-style="italic" font-size="34" fill="#E5252A" letter-spacing="-1">NEXUS</text>
+    <text x="82" y="66" font-family="'Inter', sans-serif" font-weight="700" font-size="10" fill="#64748B" letter-spacing="3">AUTHENTIC FOOTWEAR RETAIL</text>
+</svg>

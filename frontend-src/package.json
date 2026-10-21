@@ -1,0 +1,22 @@
+{
+  "name": "sportnexus-frontend",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Sport Nexus Interactive React 18 & Tailwind CSS UI Bundle",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "build:css": "tailwindcss -i ./src/input.css -o ../assets/css/tailwind.output.css --minify"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.17",
+    "vite": "^6.0.7"
+  }
+}

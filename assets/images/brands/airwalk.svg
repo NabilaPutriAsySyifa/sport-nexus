@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 40" fill="none">
+    <!-- Airwalk triangular emblem -->
+    <path d="M12 28 L24 8 L36 28 Z" fill="#E5252A"/>
+    <path d="M18 25 L24 14 L30 25 Z" fill="#FFFFFF"/>
+    <text x="44" y="27" font-family="'Montserrat', sans-serif" font-weight="900" font-size="19" fill="#1E2229">AIRWALK</text>
+</svg>
